@@ -34,7 +34,7 @@ std::vector<int> knapsackFPTAS(const std::vector<Item>& items, int capacity, dou
 
     double K = epsilon * maxValue / items.size(); // scaling factor
 
-    std::vector<int> scaledValues(items.size()); //scale values
+    std::vector<int> scaledValues(items.size(), 0); //scale values
 
     for (int i = 0; i < items.size(); i++) { //for each item
         if (items[i].weight <= capacity && items[i].value > 0) {
