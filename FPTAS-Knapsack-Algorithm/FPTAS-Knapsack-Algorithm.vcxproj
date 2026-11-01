@@ -123,7 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="FPTAS-Knapsack-Algorithm.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="FPTAS.cpp" />
   </ItemGroup>
   <ItemGroup>
