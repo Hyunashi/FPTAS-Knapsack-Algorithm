@@ -1,3 +1,5 @@
 ﻿  FPTAS-Knapsack-Algorithm.cpp
-C:\Users\clayt\FPTAS-Knapsack-Algorithm\FPTAS-Knapsack-Algorithm\FPTAS-Knapsack-Algorithm.cpp(118,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  FPTAS.cpp
+  Generating Code...
+C:\Users\clayt\FPTAS-Knapsack-Algorithm\FPTAS-Knapsack-Algorithm\FPTAS.cpp(109,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   FPTAS-Knapsack-Algorithm.vcxproj -> C:\Users\clayt\FPTAS-Knapsack-Algorithm\x64\Debug\FPTAS-Knapsack-Algorithm.exe
